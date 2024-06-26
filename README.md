@@ -16,12 +16,12 @@
 <br/>  
 
 
-  <h1 align="center">Hi 👋, I'm Hyuna</h1>
+  <h1 align="center">🙌 I'm Hyuna: The Frontend Developer 💻 Everyone's Looking For 🙌</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **GSEPS**
+- 🔭 I’m currently working on **GSEPS(https://www.gseps.com/)**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and SQL**
 
 - 💬 Ask me about **UX/UI user experience.**
 
