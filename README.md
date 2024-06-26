@@ -2,7 +2,7 @@
 
 
   <h1 align="center">Hi 👋, I'm Hyuna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **GSEPS**
 
