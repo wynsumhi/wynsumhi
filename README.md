@@ -1,4 +1,19 @@
-### Hi there 👋
+### <div align="center">🙌 I'm Hyuna: The Frontend Developer 💻 Everyone's Looking For 🙌</div>  
+  
+
+- 🔭 I’m currently working on [GSEPS](https://www.gseps.com/)  
+  
+
+- 🌱 I’m currently learning Java and SQL  
+  
+
+- ❓ Ask me about anything related to my strengths in improving user experience and design!  
+  
+
+- ⚡ Fun fact: I enjoy interactions like Parallax Scrolling.  
+  
+
+<br/>  
 
 
   <h1 align="center">Hi 👋, I'm Hyuna</h1>
