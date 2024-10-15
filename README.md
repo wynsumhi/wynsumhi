@@ -1,9 +1,9 @@
 <h2 align="center">🙌 I'm Hyuna: The Frontend Developer 💻 Everyone's Looking For 🙌</h2>
 <h3 align="center"></h3>
 
-- 🔭 sdf**[GSEPS](https://www.gseps.com/)**
+- 🔭 My representative work **[GSEPS](https://www.gseps.com/)**
 
-- 🌱 I’m currently learning **Java and SQL**
+- 🌱 Studying web standards and accessibility.
 
 - 💬 Ask me about **user experience.**
 
